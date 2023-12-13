@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL=https://aashishgautam.github.io react-scripts build",
+    "build": "PUBLIC_URL=https://aashishgautam.github.io/github-pages react-scripts build",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "test": "react-scripts test",
